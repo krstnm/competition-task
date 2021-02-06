@@ -1,0 +1,19 @@
+C:\Users\krist\source\repos\talent-competition\Talent.Api\bin\Release\netcoreapp2.0\appsettings.Development.json
+C:\Users\krist\source\repos\talent-competition\Talent.Api\bin\Release\netcoreapp2.0\appsettings.json
+C:\Users\krist\source\repos\talent-competition\Talent.Api\bin\Release\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\krist\source\repos\talent-competition\Talent.Api\bin\Release\netcoreapp2.0\Talent.Api.deps.json
+C:\Users\krist\source\repos\talent-competition\Talent.Api\bin\Release\netcoreapp2.0\Talent.Api.runtimeconfig.json
+C:\Users\krist\source\repos\talent-competition\Talent.Api\bin\Release\netcoreapp2.0\Talent.Api.runtimeconfig.dev.json
+C:\Users\krist\source\repos\talent-competition\Talent.Api\bin\Release\netcoreapp2.0\Talent.Api.dll
+C:\Users\krist\source\repos\talent-competition\Talent.Api\bin\Release\netcoreapp2.0\Talent.Api.pdb
+C:\Users\krist\source\repos\talent-competition\Talent.Api\bin\Release\netcoreapp2.0\Talent.Common.dll
+C:\Users\krist\source\repos\talent-competition\Talent.Api\bin\Release\netcoreapp2.0\Talent.Common.pdb
+C:\Users\krist\source\repos\talent-competition\Talent.Api\obj\Release\netcoreapp2.0\Talent.Api.csprojAssemblyReference.cache
+C:\Users\krist\source\repos\talent-competition\Talent.Api\obj\Release\netcoreapp2.0\Talent.Api.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\talent-competition\Talent.Api\obj\Release\netcoreapp2.0\Talent.Api.AssemblyInfo.cs
+C:\Users\krist\source\repos\talent-competition\Talent.Api\obj\Release\netcoreapp2.0\Talent.Api.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\talent-competition\Talent.Api\obj\Release\netcoreapp2.0\Talent.Api.csproj.CopyComplete
+C:\Users\krist\source\repos\talent-competition\Talent.Api\obj\Release\netcoreapp2.0\Talent.Api.dll
+C:\Users\krist\source\repos\talent-competition\Talent.Api\obj\Release\netcoreapp2.0\Talent.Api.pdb
+C:\Users\krist\source\repos\talent-competition\Talent.Api\obj\Release\netcoreapp2.0\Talent.Api.genruntimeconfig.cache
+C:\Users\krist\source\repos\talent-competition\Talent.Api\bin\Release\netcoreapp2.0\Properties\ServiceDependencies\TalentAppWebApp20210206161448 - Web Deploy\profile.arm.json

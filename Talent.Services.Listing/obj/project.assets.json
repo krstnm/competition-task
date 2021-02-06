@@ -13661,23 +13661,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\choiw\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\krist\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\choiw\\Desktop\\talent-competition\\Talent.Services.Listing\\Talent.Services.Talent.csproj",
+      "projectUniqueName": "C:\\Users\\krist\\source\\repos\\talent-competition\\Talent.Services.Listing\\Talent.Services.Talent.csproj",
       "projectName": "Talent.Services.Talent",
-      "projectPath": "C:\\Users\\choiw\\Desktop\\talent-competition\\Talent.Services.Listing\\Talent.Services.Talent.csproj",
-      "packagesPath": "C:\\Users\\choiw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\choiw\\Desktop\\talent-competition\\Talent.Services.Listing\\obj\\",
+      "projectPath": "C:\\Users\\krist\\source\\repos\\talent-competition\\Talent.Services.Listing\\Talent.Services.Talent.csproj",
+      "packagesPath": "C:\\Users\\krist\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\krist\\source\\repos\\talent-competition\\Talent.Services.Listing\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\choiw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\krist\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -13690,11 +13686,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\choiw\\Desktop\\talent-competition\\Talent.Common\\Talent.Common.csproj": {
-              "projectPath": "C:\\Users\\choiw\\Desktop\\talent-competition\\Talent.Common\\Talent.Common.csproj"
+            "C:\\Users\\krist\\source\\repos\\talent-competition\\Talent.Common\\Talent.Common.csproj": {
+              "projectPath": "C:\\Users\\krist\\source\\repos\\talent-competition\\Talent.Common\\Talent.Common.csproj"
             },
-            "C:\\Users\\choiw\\Desktop\\talent-competition\\Talent.Services.Profile\\Talent.Services.Profile.csproj": {
-              "projectPath": "C:\\Users\\choiw\\Desktop\\talent-competition\\Talent.Services.Profile\\Talent.Services.Profile.csproj"
+            "C:\\Users\\krist\\source\\repos\\talent-competition\\Talent.Services.Profile\\Talent.Services.Profile.csproj": {
+              "projectPath": "C:\\Users\\krist\\source\\repos\\talent-competition\\Talent.Services.Profile\\Talent.Services.Profile.csproj"
             }
           }
         }
@@ -13749,7 +13745,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

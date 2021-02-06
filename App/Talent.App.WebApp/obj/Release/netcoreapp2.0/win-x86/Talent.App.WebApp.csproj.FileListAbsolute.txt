@@ -1,0 +1,17 @@
+C:\Users\krist\source\repos\talent-competition\App\Talent.App.WebApp\bin\Release\netcoreapp2.0\win-x86\appsettings.Development.json
+C:\Users\krist\source\repos\talent-competition\App\Talent.App.WebApp\bin\Release\netcoreapp2.0\win-x86\appsettings.json
+C:\Users\krist\source\repos\talent-competition\App\Talent.App.WebApp\bin\Release\netcoreapp2.0\win-x86\bundleconfig.json
+C:\Users\krist\source\repos\talent-competition\App\Talent.App.WebApp\bin\Release\netcoreapp2.0\win-x86\Properties\launchSettings.json
+C:\Users\krist\source\repos\talent-competition\App\Talent.App.WebApp\bin\Release\netcoreapp2.0\win-x86\Properties\ServiceDependencies\onlinecompetitiontask - Web Deploy\profile.arm.json
+C:\Users\krist\source\repos\talent-competition\App\Talent.App.WebApp\bin\Release\netcoreapp2.0\win-x86\Talent.App.WebApp.deps.json
+C:\Users\krist\source\repos\talent-competition\App\Talent.App.WebApp\bin\Release\netcoreapp2.0\win-x86\Talent.App.WebApp.runtimeconfig.json
+C:\Users\krist\source\repos\talent-competition\App\Talent.App.WebApp\bin\Release\netcoreapp2.0\win-x86\Talent.App.WebApp.runtimeconfig.dev.json
+C:\Users\krist\source\repos\talent-competition\App\Talent.App.WebApp\bin\Release\netcoreapp2.0\win-x86\Talent.App.WebApp.dll
+C:\Users\krist\source\repos\talent-competition\App\Talent.App.WebApp\bin\Release\netcoreapp2.0\win-x86\Talent.App.WebApp.pdb
+C:\Users\krist\source\repos\talent-competition\App\Talent.App.WebApp\obj\Release\netcoreapp2.0\win-x86\Talent.App.WebApp.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\talent-competition\App\Talent.App.WebApp\obj\Release\netcoreapp2.0\win-x86\Talent.App.WebApp.AssemblyInfo.cs
+C:\Users\krist\source\repos\talent-competition\App\Talent.App.WebApp\obj\Release\netcoreapp2.0\win-x86\Talent.App.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\talent-competition\App\Talent.App.WebApp\obj\Release\netcoreapp2.0\win-x86\UserSecretsAssemblyInfo.cs
+C:\Users\krist\source\repos\talent-competition\App\Talent.App.WebApp\obj\Release\netcoreapp2.0\win-x86\Talent.App.WebApp.dll
+C:\Users\krist\source\repos\talent-competition\App\Talent.App.WebApp\obj\Release\netcoreapp2.0\win-x86\Talent.App.WebApp.pdb
+C:\Users\krist\source\repos\talent-competition\App\Talent.App.WebApp\obj\Release\netcoreapp2.0\win-x86\Talent.App.WebApp.genruntimeconfig.cache

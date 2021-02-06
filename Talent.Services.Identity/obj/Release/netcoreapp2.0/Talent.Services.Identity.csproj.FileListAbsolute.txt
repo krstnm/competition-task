@@ -1,0 +1,21 @@
+C:\Users\krist\source\repos\talent-competition\Talent.Services.Identity\bin\Release\netcoreapp2.0\appsettings.Development.json
+C:\Users\krist\source\repos\talent-competition\Talent.Services.Identity\bin\Release\netcoreapp2.0\appsettings.docker.Development.json
+C:\Users\krist\source\repos\talent-competition\Talent.Services.Identity\bin\Release\netcoreapp2.0\appsettings.docker.json
+C:\Users\krist\source\repos\talent-competition\Talent.Services.Identity\bin\Release\netcoreapp2.0\appsettings.json
+C:\Users\krist\source\repos\talent-competition\Talent.Services.Identity\bin\Release\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\krist\source\repos\talent-competition\Talent.Services.Identity\bin\Release\netcoreapp2.0\Talent.Services.Identity.deps.json
+C:\Users\krist\source\repos\talent-competition\Talent.Services.Identity\bin\Release\netcoreapp2.0\Talent.Services.Identity.runtimeconfig.json
+C:\Users\krist\source\repos\talent-competition\Talent.Services.Identity\bin\Release\netcoreapp2.0\Talent.Services.Identity.runtimeconfig.dev.json
+C:\Users\krist\source\repos\talent-competition\Talent.Services.Identity\bin\Release\netcoreapp2.0\Talent.Services.Identity.dll
+C:\Users\krist\source\repos\talent-competition\Talent.Services.Identity\bin\Release\netcoreapp2.0\Talent.Services.Identity.pdb
+C:\Users\krist\source\repos\talent-competition\Talent.Services.Identity\bin\Release\netcoreapp2.0\Talent.Common.dll
+C:\Users\krist\source\repos\talent-competition\Talent.Services.Identity\bin\Release\netcoreapp2.0\Talent.Common.pdb
+C:\Users\krist\source\repos\talent-competition\Talent.Services.Identity\obj\Release\netcoreapp2.0\Talent.Services.Identity.csprojAssemblyReference.cache
+C:\Users\krist\source\repos\talent-competition\Talent.Services.Identity\obj\Release\netcoreapp2.0\Talent.Services.Identity.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\talent-competition\Talent.Services.Identity\obj\Release\netcoreapp2.0\Talent.Services.Identity.AssemblyInfo.cs
+C:\Users\krist\source\repos\talent-competition\Talent.Services.Identity\obj\Release\netcoreapp2.0\Talent.Services.Identity.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\talent-competition\Talent.Services.Identity\obj\Release\netcoreapp2.0\Talent.Services.Identity.csproj.CopyComplete
+C:\Users\krist\source\repos\talent-competition\Talent.Services.Identity\obj\Release\netcoreapp2.0\Talent.Services.Identity.dll
+C:\Users\krist\source\repos\talent-competition\Talent.Services.Identity\obj\Release\netcoreapp2.0\Talent.Services.Identity.pdb
+C:\Users\krist\source\repos\talent-competition\Talent.Services.Identity\obj\Release\netcoreapp2.0\Talent.Services.Identity.genruntimeconfig.cache
+C:\Users\krist\source\repos\talent-competition\Talent.Services.Identity\bin\Release\netcoreapp2.0\Properties\ServiceDependencies\TalentAppWebApp20210206161448 - Web Deploy\profile.arm.json

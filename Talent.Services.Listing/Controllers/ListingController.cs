@@ -172,25 +172,25 @@ namespace Talent.Services.Listing.Controllers
                 employerId = employerId == null ? _userAppContext.CurrentUserId : employerId;
                 var sortedJobs = (await _jobService.GetEmployerJobsAsync(employerId));
 
-                if (!showActive)
-                {
-                    sortedJobs = sortedJobs.Where(x => x.Status != JobStatus.Active);
-                }
+                //if (!showActive)
+                //{
+                //    sortedJobs = sortedJobs.Where(x => x.Status != JobStatus.Active);
+                //}
 
-                if(!showClosed)
-                {
-                    sortedJobs = sortedJobs.Where(x => x.Status != JobStatus.Closed);
-                }
+                //if(!showClosed)
+                //{
+                //    sortedJobs = sortedJobs.Where(x => x.Status != JobStatus.Closed);
+                //}
 
-                if (!showExpired)
-                {
-                    sortedJobs = sortedJobs.Where(x => x.ExpiryDate >= DateTime.UtcNow);
-                }
+                //if (!showExpired)
+                //{
+                //    sortedJobs = sortedJobs.Where(x => x.ExpiryDate >= DateTime.UtcNow);
+                //}
 
-                if (!showUnexpired)
-                {
-                    sortedJobs = sortedJobs.Where(x => x.ExpiryDate < DateTime.UtcNow);
-                }
+                //if (!showUnexpired)
+                //{
+                //    sortedJobs = sortedJobs.Where(x => x.ExpiryDate < DateTime.UtcNow);
+                //}
 
                 //TODO Draft not implemented yet
                 //if (!showDraft)
